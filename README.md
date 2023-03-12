@@ -1,6 +1,6 @@
 Herkese merhaba. Siber Güvenlik alanında kariyer hedefleyenler ve kendilerine yol haritası çizmek isteyenlere faydasının dokunacağını düşündüğüm bir Kariyer yazısı hazırlamış bulunmaktayım. Bildiğimiz üzere Siber Güvenliğin, geçmişte olduğu gibi günümüzde ve gelecekte de büyük önem arz ediyor oluşu kaçınılmazdır. Günlük hayattaki tehlikelerden ziyade, Şirketler için kritik bir anlamı olan Siber Güvenliğin dalları Ofansif ve Defansif olarak iki kısma ayrılan ana dalın içinde alt dallara ayrılır. Ofansif-Defansif nedir, alt dallar hangileri bunlardan bahsedelim biraz.
  
-##-OFANSİF-
+-OFANSİF-
 
 Kırmızı Takım dediğimiz saldırgan tarafı temsil eder. Bir sisteme sızar ve sistemdeki zayıflıkları bulmak üzerine çalışır.
 
@@ -9,7 +9,7 @@ Kırmızı Takım dediğimiz saldırgan tarafı temsil eder. Bir sisteme sızar 
 2-	Exploit Geliştirme Uzmanı : Bilgisayarda ve yazılımsal hatalardan kaynaklı olan açıklardan faydalanmak için geliştirilmiş programlar olan exploit, sisteme izinsiz giriş yapmakla kalmayıp yetkili kullanıcı adıyla sistemi devre dışı bırakır. Exploit geliştirici olarak çalışan kişinin de bu alana hakim olması gereklidir.
   
   
-##-DEFANSİF-
+-DEFANSİF-
 
 Mavi Takım dediğimiz savunan tarafı temsil eder. Saldırganın hamlelerini bilir ve savunma üzerine geliştirmelerde bulunur. 
 
@@ -24,11 +24,11 @@ Mavi Takım dediğimiz savunan tarafı temsil eder. Saldırganın hamlelerini bi
 5-	Güvenli Yazılım Uzmanı : Bir geliştirici ekibiyle güvenli yazılım araçları ve sistemleri oluşturur, yeni yazılım çözümleri için mühendislik tasarımları sağlar, yazılım tasarımı-uygulaması ve testinde liderlik eder, yazılım güvenliği stratejisi geliştirir, gelişmiş yazılım güvenlik tekniklerini uygular, test eder ve çalıştırır, olası yazılım açıkları için sürekli güvenlik testleri gerçekleştirir ve ortaya çıkan sorunları giderip hata ayıklar. 
   
 
-##/NOT/
+/NOT/
 
 Kırmızı ve Mavi Takım dışında bir de Mor Takım vardır. Mor Takım, Kırmızı Takımın saldırma hamlelerini Mavi Takımın ise savunma hamlelerini çözümler ve geliştirme üzerine çalışmalarda bulunur.
 
-##/SİBER GÜVENLİK KAYNAK TAVSİYELERİ/
+/SİBER GÜVENLİK KAYNAK TAVSİYELERİ/
 
 https://www.youtube.com/@SiberKampus
 
