@@ -44,6 +44,11 @@ Kırmızı ve Mavi Takım dışında bir de Mor Takım vardır. Mor Takım, Kır
 
 ## /SİBER GÜVENLİK KAYNAK TAVSİYELERİ/
 
+###
+LuNiZz Sıkça Sorulan Sorular Sayfası:
+https://github.com/LuNiZz/siber-guvenlik-sss
+
+
 ### Youtube
 
 https://www.youtube.com/@SiberKampus
