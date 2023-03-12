@@ -25,15 +25,15 @@ Mavi Takım dediğimiz savunan tarafı temsil eder. Saldırganın hamlelerini bi
 
 Delil niteliği taşıyan veya araştırma verisi olarak görülen bilişim kaynaklı göstergelerle ilgilenir. Bilişim alanında ileri düzey bilgilere sahip olarak mesleklerini yerine getirmiş olurlar. Adli bilişim alanı; dijital kaynaklı veri ve bilgilerin, kanıt oluşturma veya suç göstergesi olarak sunulabilmesine olanak tanır. Böylelikle adli süreçlerde dijital delil dediğimiz kanıtlar sunularak olayın aydınlatılmasında önemli bir adım atılmış olur.
 
-### 3-	Zararlı Yazılım Analisti :
+#### 3-	Zararlı Yazılım Analisti :
 
 Kullanıcıların isteğinin dışında gelişen olaylar sonucunda bilgisayarları etkileyerek önemli bilgilerin çalınmasını, kritik bilgilerin silinmesini hatta şifrelenmesini ve üzerinde oynamalar yapılmasını sağlayan zararlı yazılımlar, solucan, reklam, casus, bot, fidye ve truva atı gibi virüslerden oluşabilir. Bir zararlı yazılım uzmanı bu alanda geçerli bir yetkinliğe sahip olmalıdır.
 
-### 4-	SOC Analisti :
+#### 4-	SOC Analisti :
 
 Kurum bünyesinde bulunan sistemlerin log yönetimi, siber istihbarat, güvenlik izleme faaliyetlerinin gerçekleştirilmesi, olayların önceliklendirilmesinin ve sınıflandırılmasının yapılması, şüpheli durumların ve oluşan alarmların incelenerek L1 analizinin yapılması, gerçekleştirilen analiz sonucunda ihtiyaç olması durumunda ilgili birimlere aktarım yapılması, güncel güvenlik tehditlerinin takibi ve raporlanması, siber savunma için gerekli dokümanların hazırlanmasının ve güncel tutulmasının sağlanması SOC Analistinin başlıca görevlerindendir.
 
-### 5-	Güvenli Yazılım Uzmanı :
+#### 5-	Güvenli Yazılım Uzmanı :
 
 Bir geliştirici ekibiyle güvenli yazılım araçları ve sistemleri oluşturur, yeni yazılım çözümleri için mühendislik tasarımları sağlar, yazılım tasarımı-uygulaması ve testinde liderlik eder, yazılım güvenliği stratejisi geliştirir, gelişmiş yazılım güvenlik tekniklerini uygular, test eder ve çalıştırır, olası yazılım açıkları için sürekli güvenlik testleri gerçekleştirir ve ortaya çıkan sorunları giderip hata ayıklar. 
   
