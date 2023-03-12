@@ -4,11 +4,11 @@ Herkese merhaba. Siber Güvenlik alanında kariyer hedefleyenler ve kendilerine 
 
 Kırmızı Takım dediğimiz saldırgan tarafı temsil eder. Bir sisteme sızar ve sistemdeki zayıflıkları bulmak üzerine çalışır.
 
-### 1-	Sızma Testi Uzmanı :
+#### 1-	Sızma Testi Uzmanı :
 
 Kurumun güvenliğini sağlamak için sisteme sızma testi uygulayan kişidir. Uygulanacak testi belirlemek için müşterilerle senkronize çalışır. Sistemdeki güvenlik zayıflıklarını belirlemek için müşterinin ağını hem uzaktan hem de yerinde test eder. Olası senaryoları canlandırır. Bu çalışma sonucu ortaya çıkan sonuçtaki güvenlik risklerini tespit eder ve önlemleri alır. Müşterisine olası riskleri ve sonuçları aktarır.
 
-### 2-	Exploit Geliştirme Uzmanı :
+#### 2-	Exploit Geliştirme Uzmanı :
 
 Bilgisayarda ve yazılımsal hatalardan kaynaklı olan açıklardan faydalanmak için geliştirilmiş programlar olan exploit, sisteme izinsiz giriş yapmakla kalmayıp yetkili kullanıcı adıyla sistemi devre dışı bırakır. Exploit geliştirici olarak çalışan kişinin de bu alana hakim olması gereklidir.
   
