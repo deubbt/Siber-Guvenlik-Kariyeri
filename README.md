@@ -197,26 +197,45 @@ https://lnkd.in/eArVHppj
 👉 𝗟𝗲𝘁’𝘀 𝘀𝘁𝗮𝗿𝘁 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗯𝗼𝘂𝘁 𝗶𝘁 𝗮𝗻𝗱 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲
 
 🌟 Getting Started with Exploit Development by Specter and zi
+
 https://lnkd.in/eAYesZGh
+
 🌟 Exploit Courses by Dobin Rutishauser
+
 https://lnkd.in/ejsMyfsD
+
 🌟 Pwn College
+
 https://pwn.college/
 https://lnkd.in/eDdauWz4
 https://lnkd.in/ea7cmSiB
+
 🌟 A curated list of resources for learning about Exploit Development by wtsxDev
+
 https://lnkd.in/eyuAgFvm
+
 🌟 Practice with exploit education
+
 https://exploit.education/
+
 🌟 Fundamentals of Software Exploitation
+
 https://lnkd.in/en9su-Zw
+
 🌟 Shellcode Devlopment by Joas Antonio
+
 https://lnkd.in/ebSax3pH
+
 🌟 Shellcode Development by Aayush Malla
+
 https://lnkd.in/e_HChAu4
+
 🌟 Joas Antonio OSEP guide with plenty of resources
+
 https://lnkd.in/ekz_s4iG
+
 🌟 Awesome Exploit Development by Joas Antonio
+
 https://lnkd.in/e53U_CDD
 
 👉 𝗕𝗢𝗡𝗨𝗦: 𝗪𝗮𝗻𝘁 𝘁𝗼 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗵𝗼𝘄 𝗮 𝗺𝗮𝗹𝘄𝗮𝗿𝗲 𝘄𝗼𝗿𝗸𝘀?
