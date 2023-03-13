@@ -8,9 +8,19 @@ Kırmızı Takım dediğimiz saldırgan tarafı temsil eder. Bir sisteme sızar 
 
 Kurumun güvenliğini sağlamak için sisteme sızma testi uygulayan kişidir. Uygulanacak testi belirlemek için müşterilerle senkronize çalışır. Sistemdeki güvenlik zayıflıklarını belirlemek için müşterinin ağını hem uzaktan hem de yerinde test eder. Olası senaryoları canlandırır. Bu çalışma sonucu ortaya çıkan sonuçtaki güvenlik risklerini tespit eder ve önlemleri alır. Müşterisine olası riskleri ve sonuçları aktarır.
 
+-Ağ Sızma Testi Uzmanı: Ağ penetrasyon testleri, özellikle şirketlerin güvenlik düzeylerini en yukarıda tutmak amacıyla yapılan testlerin adıdır. Bu testler sırasında ortaya çıkartılan güvenlik açıkları alınacak önlemlerle kapatılır ve bilgisayar korsanlarının ağa sızması önlenmiş olur. Ağ penetrasyon testinde uzman kişiler bilgisayar korsanı gibi hareket eder ve sistemin açıklarını bularak hacklemeye çalışırlar. Bunu başardıklarında sistem üzerinde açığı da keşfederler.
+
+-Web Uygulama Güvenliği : Web sitelerinin ve sunucuların çevrimiçi risklerden korunması ile ilgilidir. Saldırıları kısıtlayarak, keşfederek ve bunlara yanıt vererek hassas verileri korumayı amaçlar. Web sitesi güvenlik kontrolü,  web sitesi güvenlik yazılımı aracılığıyla olası güvenlik açıkları ve kötü amaçlı yazılımlar için URL'lerin taranmasını içerir.
+
+-Mobil Uygulama Güvenliği : Mobil cihazların siber güvenlik tehditlerine karşı korunmasını ifade eden mobil güvenlik, mobil cihazların iş amaçlı kullanımının artması nedeniyle günümüz şirketleri için en önemli endişelerden biridir. Uzaktan çalışanlar, güvenilmeyen mobil cihazları kullanarak kurumsal verilere ve uygulamalara erişirken, şirketler, çalışan üretkenliğini olumsuz etkilemeden verilerini koruyan, kullanımı kolay bir çözüme ihtiyaç duyuyor. Bu yüzden Mobil Uygulama Güvenliği büyük önem taşıyor.
+
 #### 2-	Exploit Geliştirme Uzmanı :
 
 Bilgisayarda ve yazılımsal hatalardan kaynaklı olan açıklardan faydalanmak için geliştirilmiş programlar olan exploit, sisteme izinsiz giriş yapmakla kalmayıp yetkili kullanıcı adıyla sistemi devre dışı bırakır. Exploit geliştirici olarak çalışan kişinin de bu alana hakim olması gereklidir.
+
+#### 3- Zararlı Yazılım Geliştirme : 
+
+Zararlı yazılım, bilgisayar ve mobil cihazların işlevlerini bozmak, kritik bilgileri toplamak, özel bilgisayar sistemlerine erişim sağlamak ve istenmeyen reklamları göstermek amacı ile kullanılan yazılımdır. Siber camianın en etkili silahları olarak da bilinen zararlı yazılımlar, alınan geleneksel güvenlik önlemlerini atlatarak sistemler üzerinden bilgi kaçırma, zarar verme ve istihbarat toplama amaçlı kullanılmaktadır.
   
   
 ## -DEFANSİF-
@@ -20,6 +30,8 @@ Mavi Takım dediğimiz savunan tarafı temsil eder. Saldırganın hamlelerini bi
 #### 1-	Sistem Güvenliği Uzmanı :
 
 Şirketlerin bilgisayar ağları, telefon ve internet altyapısı, veri merkezi ve bulut ağ yapılarını kontrol eden kişiye verilen isimdir. Bu sistemlerin güvenlik politikalarını yönetmekten ve sorun ile taleplere çözüm belirlemekten sorumlu kişidir.
+
+-Zafiyet Yönetimi Uzmanı : Bu alan sınıflandırma, tanımlama, kategorize etme ve çözümlerin düzenli, zamanlı olup tekrar edilebilecek şekillerde uygulanmasını içerir. Zafiyet analizi sonrasında belirlenen zafiyetler belirli iş süreçleriyle yönetilerek ve azaltılarak, zafiyet yönetimi sağlanır.
 
 #### 2-	Adli Bilişim Uzmanı:
 
@@ -41,6 +53,33 @@ Bir geliştirici ekibiyle güvenli yazılım araçları ve sistemleri oluşturur
 ## /NOT/
 
 Kırmızı ve Mavi Takım dışında bir de Mor Takım vardır. Mor Takım, Kırmızı Takımın saldırma hamlelerini Mavi Takımın ise savunma hamlelerini çözümler ve geliştirme üzerine çalışmalarda bulunur.
+
+### GÜNÜMÜZÜN POPÜLER SİBER GÜVENLİK DALLARI : 
+
+#### Güvenlik Mimarisi : 
+
+Donanım ve yazılım bilgisini programlama, araştırma ve politika geliştirme ile birleştirir. Güvenlik Mimarları potansiyel tehditleri tahmin eder ve bunları önlemek için sistemleri tasarlar. Bilgisayar ve ağ güvenlik sistemlerini planlar, uygular ve denetler.
+
+#### Güvenlik Mühendisi : 
+
+Şirketin güvenlik için kurulu olan sistemlerini daima işler vaziyette tutmak güvenlik mühendisinin görevidir. Özellikle yeni uygulanan güvenlik sistemlerini teyit eder ve sistemlerin tamamen güvenilir olduğundan emin oluncaya kadar çeşitli testler yapar. Satış öncesi teknik sunum, şartname ve POC yapımında çalışır. Satış sonrası kurulum, bakım ve profesyonel destek sağlar.
+
+#### Risk Analisti : 
+
+Güvenlik analisti, bir kuruluşun özel ve hassas bilgilerinin güvenliğini sağlamada hayati bir rol oynar. Şirketin güvenlik sistemleri, çözümleri ve programlarındaki kusurları belirlemek ve düzeltmek için departmanlar arası çalışır ve şirketin genel güvenlik duruşunu geliştirebilecek özel önlemler önerir.
+
+#### Güvenlik Yönetimi : 
+
+Yönetim ve bilgi güvenliği denetimi alanlarında çalışan ve şirketlerin bilgi güvenliği regülasyonlarına uyumluluğunu test eden kişidir. BT hizmetlerine kıyasla daha geniş bir yelpazeye sahip olan güvenlik yönetimine yönelik kurumsal bir stratejinin parçasını oluştururlar.
+
+#### Mavi Takım Operasyonları : 
+
+Mavi takım hem gerçek saldırganlara hem de kırmızı takıma karşı sistemi savunur. Mavi takımın saldırı anında veya en kısa sürede tepki vermesi gerektiğinden organizasyonlarda standart güvenlik ekiplerinden ayrı şekilde konumlandırılmalıdır.
+
+
+#### Kırmızı Takım Operasyonları : 
+
+Bir güvenlik testi uygulamasında, dışarıdan bir saldırganın muhtemel uygulayacağı davranışları ve teknikleri en gerçekçi şekilde taklit eder. Uygulama Penetrasyon Testine benzer ancak aynı kapsamda ve tekniklerde değildir. Kırmızı takım bir veya birden fazla hedef seçer.
 
 ## /SİBER GÜVENLİK KAYNAK TAVSİYELERİ/
 
@@ -424,7 +463,3 @@ https://lnkd.in/gRiE_3GR
 
 
 ![image](https://user-images.githubusercontent.com/20372673/224565466-1b891935-548f-4fb6-9ebe-f858b220d052.png)
-
-
-
-
